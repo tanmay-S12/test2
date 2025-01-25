@@ -1,0 +1,1 @@
+// All constants related to messages

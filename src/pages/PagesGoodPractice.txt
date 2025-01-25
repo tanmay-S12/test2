@@ -1,0 +1,10 @@
+1) Imports of librarary . Write first one of react and then follow alphabetical order for remaining ones.
+
+2) Give a single enter after lib imprts and now put all the internal imports in alphabetical order.
+
+3)Now in Functional component, the sequence is 
+ useStates
+ Constants varibales
+ useeffects
+ functions
+ return();
