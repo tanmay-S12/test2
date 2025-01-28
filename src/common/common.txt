@@ -1,0 +1,1 @@
+this will have components folder. this will have common comonents like button , card , inputs, table etc.
