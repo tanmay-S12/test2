@@ -8,3 +8,11 @@
  useeffects
  functions
  return();
+
+
+Flow --
+entry point is main.jsx
+then we go to app.jsx as app.jsx is rendered in main.jsx.
+Now app.jsx , if you are authenticated, then "allRoutes" from routeConstants is mapped according to path , its shown.
+
+In privateRoutes
