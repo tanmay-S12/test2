@@ -15,4 +15,4 @@ entry point is main.jsx
 then we go to app.jsx as app.jsx is rendered in main.jsx.
 Now app.jsx , if you are authenticated, then "allRoutes" from routeConstants is mapped according to path , its shown.
 
-In privateRoutes
+In privateRoutes , there are three components. header and footer will remain constant to entire app. and the <outlet /> will have the component which is mapped on that particular path. And it will get path from allroutes.
