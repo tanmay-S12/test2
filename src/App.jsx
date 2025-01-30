@@ -2,6 +2,7 @@ import { Routes, Route, BrowserRouter } from "react-router-dom";
 
 import { allRoutes } from "./constants/routeConstants";
 // import "./App.css";
+import "./index.css"
 // import ApiBasedInactivityCheck from "../src/providers/ApiBasedInactivityCheck";
 // import Loader from "./common/components/Loader/Loader";
 import PrivateRoutes from "./routing/PrivateRoutes";
